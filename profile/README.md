@@ -2,9 +2,8 @@
 
 Welcome to the Coink github organization!
 
----
 
-
+```
                                      COINK                   
                                   ██████████                 
                               ████          ████            
@@ -36,3 +35,4 @@ Welcome to the Coink github organization!
           ████                                  ████░░      
               ████                        ██████            
                   ████████████████████████                  
+```
